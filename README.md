@@ -8,4 +8,5 @@ How ____?
   Controls via website
 - Power:
   1s 25c Lipo Battery 3.7v -> Brushed 1020s
-  
+- Chassis:
+  Foam Plane thing
