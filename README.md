@@ -15,4 +15,5 @@ How ____?
 
 
 PCB:
+<br/>
 <img width="810" height="669" alt="image" src="https://github.com/user-attachments/assets/707c2020-c21d-4c83-b896-5d60c12e1f2f" />
