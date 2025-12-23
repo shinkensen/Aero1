@@ -10,3 +10,4 @@ How ____?
   1s 25c Lipo Battery 3.7v -> Brushed 1020s
 - Chassis:
   Foam Plane thing
+<img width="464" height="479" alt="image" src="https://github.com/user-attachments/assets/768f3ac1-2d1a-4db8-ac26-5bab0c70ab4c" />
