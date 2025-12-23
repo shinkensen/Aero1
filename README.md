@@ -1,4 +1,4 @@
-[Aero1 BOM - Sheet1 (1).csv](https://github.com/user-attachments/files/24306125/Aero1.BOM.-.Sheet1.1.csv)# Aero1
+#Aero1
 A basic RC plane utilizing ESP32, Dual 1020 motors, a 500mah battery, and a pcb to coordinate everything. Essentially a mod of a foam glider to make it powered and rc controlable! 
 
 How ____?
